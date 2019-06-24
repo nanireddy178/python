@@ -51,6 +51,13 @@ while loop
 while(cond):
    statements
    update
+   
+   
+   For loop¶
+syntax:
+
+for <variableName> in <seq>:
+          <statements>
 -----------------------------------
 
 functional programming
